@@ -7,7 +7,7 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
-    "consolidate": "^0.14.1",
+    "consolidate": "^0.16.0",
     "csurf": "^1.8.3",
     "dont-sniff-mimetype": "^1.0.0",
     "express": "^4.13.4",
@@ -21,7 +21,7 @@
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "moment": "1.0.0"
+    "moment": "2.30.1"
   },
   "comments": {
     "//": "a9 insecure components"
@@ -54,7 +54,7 @@
     "grunt-mocha-test": "^0.12.7",
     "grunt-npm-install": "^0.3.0",
     "grunt-retire": "^0.3.12",
-    "jshint": "2.12.0",
+    "jshint": "2.13.6",
     "mocha": "^2.4.5",
     "nodemon": "^1.19.1",
     "selenium-webdriver": "^2.53.2",
