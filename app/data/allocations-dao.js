@@ -11,7 +11,7 @@ const AllocationsDAO = function(db){
         console.log("Warning: AllocationsDAO constructor called without 'new' operator");
         return new AllocationsDAO(db);
     }
-
+    const test = "";
     const allocationsCol = db.collection("allocations");
     const userDAO = new UserDAO(db);
 
